@@ -25,7 +25,10 @@ projects live.
       <h3>AmberText</h3>
       <p><b>A quiet place to write.</b> A free, open-source Markdown editor for Mac and Windows, with live styling,
       diagrams, maths and private AI that runs on your own computer. Every note stays a plain Markdown file.</p>
-      <p><a href="https://github.com/Xtendr/AmberText">Repository</a> &nbsp;·&nbsp; <a href="https://ambertext-landing-page.vercel.app/">Landing page</a> &nbsp;·&nbsp; <sub>In development</sub></p>
+      <p><a href="https://github.com/Xtendr/AmberText">Repository</a> &nbsp;·&nbsp; <a href="https://ambertext-landing-page.vercel.app/">Landing page</a></p>
+      <img src="https://img.shields.io/badge/status-in_development-F0A830?style=flat-square" alt="Status: in development">
+      <img src="https://img.shields.io/badge/platform-macOS_%7C_Windows-F0A830?style=flat-square" alt="Platforms: macOS and Windows">
+      <a href="https://github.com/Xtendr/AmberText/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Xtendr/AmberText?style=flat-square&color=F0A830" alt="License: GPL-3.0"></a>
     </td>
   </tr>
   <tr>
